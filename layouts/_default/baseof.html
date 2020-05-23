@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+    {{- partial "head.html" . -}}
+    <body class="">
+        <header class="flex content-container">
+            <img class="logo flex-left margin-top" src="/images/Monogram_white.svg" />
+            <nav class="flex justify-end padding-top padding-bottom">
+                {{ $currentPage := . }}
+                {{ range .Site.Menus.main }}
+                <a class="main-nav-item{{if ($currentPage.IsMenuCurrent "main" .) }} active{{end}}" href="{{ .URL }}" title="{{ .Title }}">{{ .Name }}</a>
+                {{ end }}
+            </nav>
+        </header>
+        {{- block "main" . }}{{- end }}
+        {{- partial "footer.html" . -}}
+    </body>
+</html>

@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+    {{- partial "head.html" . -}}
+    <body class="home">
+        <header class="bg-green">
+            <nav class="content-container flex justify-end padding-top padding-bottom">
+                {{ $currentPage := . }}
+                {{ range .Site.Menus.main }}
+                <a class="main-nav-item{{if ($currentPage.IsMenuCurrent "main" .) }} active{{end}}" href="{{ .URL }}" title="{{ .Title }}">{{ .Name }}</a>
+                {{ end }}
+            </nav>
+            <div class="flex justify-center padding-bottom-lge">
+                <img class="logo" src="/images/Lucy_deburgh_logo_white.svg" />
+            </div>   
+        </header>
+        {{- partial "slider.html" . -}}
+        <main class="flex-expand content-container margin-top-lge">
+          {{ .Content }}
+        <div id="curator-feed-default-layout" class="margin-top-lge"></div>
+        </main>
+        {{- partial "footer.html" . -}}
+
+        <script src="/js/sliderjs-script-v1.js"></script>
+        <script type="text/javascript">
+            /* curator-feed-default-layout */
+            (function(){
+            var i, e, d = document, s = "script";i = d.createElement("script");i.async = 1;
+            i.src = "https://cdn.curator.io/published/f0315c14-303c-4829-af46-45dfb8b1f1d8.js";
+            e = d.getElementsByTagName(s)[0];e.parentNode.insertBefore(i, e);
+            })();
+        </script>
+    </body>
+</html>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Articles on My New Hugo Site</title>
+    <link>http://localhost:1313/article/</link>
+    <description>Recent content in Articles on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 06 May 2020 20:44:56 +0100</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/article/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Second</title>
+      <link>http://localhost:1313/article/second/</link>
+      <pubDate>Wed, 06 May 2020 20:44:56 +0100</pubDate>
+      
+      <guid>http://localhost:1313/article/second/</guid>
+      <description>Fusce lacus magna, maximus nec sapien eu, porta efficitur neque. Aliquam erat volutpat. Vestibulum enim nibh, posuere eu diam nec, varius sagittis turpis.
+Praesent quis sapien egestas mauris accumsan pulvinar. Ut mattis gravida venenatis. Vivamus lobortis risus id nisi rutrum, at iaculis.</description>
+    </item>
+    
+    <item>
+      <title>First</title>
+      <link>http://localhost:1313/article/first/</link>
+      <pubDate>Wed, 06 May 2020 20:44:49 +0100</pubDate>
+      
+      <guid>http://localhost:1313/article/first/</guid>
+      <description>Pellentesque tempus nisi et interdum convallis. In quam ante, vulputate at massa et, rutrum gravida dui. Phasellus tristique libero at ex.</description>
+    </item>
+    
+  </channel>
+</rss>

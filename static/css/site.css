@@ -1,0 +1,294 @@
+* {
+    box-sizing: border-box;
+}
+
+html, body {
+    height: 100%;
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    color: #333333;
+    padding: 0;
+    margin: 0;
+}
+
+/* layout */
+
+.logo {
+    width: 200px;
+}
+
+.content-container {
+    max-width: 980px;
+    margin: 0 auto;
+    width: 100%;
+    padding: 0 4rem;
+}
+
+.full-width {
+    width: 100%;
+}
+
+/* typography */
+
+h1, h2, h3, h4 {
+    font-family: 'Playfair Display', serif;
+    font-weight: 300;
+    margin-bottom: 1rem;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    line-height: 1.5em;
+    margin-bottom: 1em;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.text-right {
+    text-align: right;
+}
+
+/* Modal */
+
+.modaloverlay {
+    background:rgba(0,0,0,0.8);
+    bottom:0;
+    left:0;
+    opacity:0;
+    pointer-events:none;
+    position:fixed;
+    right:0;
+    top:0;
+    transition: z-index 200ms step-end, opacity 200ms ease-out;
+    z-index:-1;
+}
+
+.modaloverlay:target {
+    opacity:1;
+    pointer-events:auto;
+    z-index: 1;
+    transition: z-index 200ms step-start, opacity 200ms ease-out;
+}
+
+.modal {
+    background-color:white;
+    height: 100%;
+    position:relative;
+    margin:0 auto;
+    
+}
+
+.modal-content {
+    padding:3em;
+    overflow-y: auto;
+    -webkit-overflow-scrolling: touch;
+    height: 100%;
+}
+
+.modal-body {
+    object-fit: contain;
+}
+
+@media (min-width: 60em) {
+    .modal {
+        height:85%;
+        margin:5% auto;
+        max-height: 57em;
+        max-width:66em;
+        width:85%;
+    }
+}
+
+.modal-close {
+    background-color:turquoise;
+    color:white;
+    font-size:24px;
+    padding:8px 12px;
+    position:absolute;
+    right:20px;
+    text-align:center;
+    text-decoration:none;
+    top:0;
+    z-index: 1;
+}
+
+/* modifiers */
+
+.bg-green {
+    background: #0d474e;
+    color: #7fb4af;
+}
+
+.full-width {
+    width: 100%;
+}
+
+.full-height {
+    height: 100%;
+}
+
+.block {
+    display: block;
+}
+
+.flex {
+    display: flex;
+}
+
+.flex-wrap {
+    flex-wrap: wrap;
+}
+
+.flex-expand {
+    flex: 1 0 auto;
+}
+
+.flex-left {
+    margin-right: auto;
+}
+
+.column {
+    flex-direction: column;
+}
+
+.justify-center {
+    justify-content: center;
+}
+
+.justify-end {
+    justify-content: flex-end;
+}
+
+.object-cover {
+    object-fit: cover;
+}
+
+.padding-top {
+    padding-top: 2rem;
+}
+
+.padding-top-lge {
+    padding-top: 4rem;
+}
+
+.padding-bottom {
+    padding-bottom: 2rem;
+}
+
+.padding-bottom-lge {
+    padding-bottom: 4rem;
+}
+
+.margin-top {
+    margin-top: 2rem;
+}
+
+.margin-top-lge {
+    margin-top: 4rem;
+}
+
+.margin-right {
+    margin-right: 2rem;
+}
+
+.margin-right-lge {
+    margin-right: 4rem;
+}
+
+.margin-bottom {
+    margin-bottom: 2rem;
+}
+
+.margin-bottom-lge {
+    margin-bottom: 4rem;
+}
+
+/* specific */
+
+.main-nav-item {
+    text-decoration: none;
+    color: #7fb4af;
+    padding: 0px 1rem;
+    white-space: nowrap;
+}
+
+.main-nav-item.active {
+    color: #b47f7f;
+}
+
+.footer-nav-item {
+    text-decoration: none;
+    color: #7fb4af;
+    line-height: 1.5em;
+    font-weight: 700;
+}
+
+.social img {
+    height: 1.5em;
+    margin-left: 0.5em;
+}
+
+.case-study {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: auto repeat(2, 1fr);
+    grid-column-gap: 1em;
+    grid-row-gap: 1em;
+}
+
+.case-study-title {
+    grid-area: 1 / 1 / 2 / 4;
+}
+
+.case-study-1 {
+    grid-area: 2 / 1 / 4 / 3;
+}
+
+.case-study-2 {
+    grid-area: 2 / 3 / 3 / 4;
+    height: 100%;
+}
+
+.case-study-3 {
+    grid-area: 3 / 3 / 4 / 4;
+    height: 100%;
+}
+
+.case-study img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.thumbs {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(12rem, 1fr));
+    grid-auto-rows: 1fr;
+    grid-gap: 1em;
+}
+
+.thumbs::before {
+    content: '';
+    width: 0;
+    padding-bottom: 100%;
+    grid-row: 1 / 1;
+    grid-column: 1 / 1;
+}
+
+.thumbs > *:first-child {
+    grid-row: 1 / 1;
+    grid-column: 1 / 1;
+}
+
+/* overrides */
+
+.home .logo {
+    width: 400px;
+}
