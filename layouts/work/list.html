@@ -1,0 +1,12 @@
+{{ define "main" }}
+<main class="flex-expand content-container margin-top">
+    {{ .Content }}
+    {{- partial "case-study.html" . -}}  
+    <h2 class="margin-top-lge">Some Other Bits</h2>
+    <div class="thumbs margin-top">
+      {{ range where .Pages "Type" "thumb" }}
+      {{- partial "thumb-modal.html" . -}}
+      {{ end }}
+    </div>
+</main>
+{{ end }}
