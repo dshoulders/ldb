@@ -1,12 +1,18 @@
 {{ define "main" }}
-<main class="flex-expand content-container margin-top">
-    {{ .Content }}
-    {{- partial "case-study.html" . -}}  
-    <h2 class="margin-top-lge">Some Other Bits</h2>
-    <div class="thumbs margin-top">
-      {{ range where .Pages "Type" "thumb" }}
-      {{- partial "thumb-modal.html" . -}}
-      {{ end }}
+<main class="flex-expand margin-top">
+    <div class="bg-blue text-center padding-top-lge padding-bottom-lge padding-left padding-right">
+        {{ .Content }}
+    </div>
+    <div class="content-container">
+        {{ range where .Pages "Type" "case" }}
+            {{- partial "case-study.html" . -}}
+        {{ end }}
+        <h2 class="margin-top-lge">Further Work</h2>
+        <div class="thumbs margin-top">
+        {{ range where .Pages "Type" "thumb" }}
+            {{- partial "thumb-modal.html" . -}}
+        {{ end }}
+        </div>
     </div>
 </main>
 {{ end }}

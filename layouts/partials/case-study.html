@@ -1,12 +1,11 @@
-<div class="case-study margin-top"> 
-    <h2 class="case-study-title">A Case Study</h2>
-    <div class="case-study-1">
-        <img class="case-study-image-1" src="/images/placeholder/1.jpg" />
-    </div>
-    <div class="case-study-2">
-        <img class="case-study-image-2" src="/images/placeholder/2.jpg" />
-    </div>
-    <div class="case-study-3">
-        <img class="case-study-image-3" src="/images/placeholder/3.jpg" />
+<div class="case-study margin-top-lge"> 
+    <a class="case-study-image" href="{{ .RelPermalink }}">
+        <img src="{{ index (.Param "image_url") 0 }}" />
+    </a>
+    <div class="case-study-summary">
+        <h2 class="case-study-title"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+        <p>
+            {{ .Summary }}
+        </p>
     </div>
 </div>

@@ -1,3 +1,10 @@
+:root {
+    --blue: #89B8B3;
+    --yellow: #F2C351;
+    --green: #A3AD3C;
+    --pink: #F16C63;
+}
+
 * {
     box-sizing: border-box;
 }
@@ -7,8 +14,8 @@ html, body {
 }
 
 body {
-    font-family: 'Open Sans', sans-serif;
-    color: #333333;
+    font-family: 'Raleway', sans-serif;
+    color: #353535;
     padding: 0;
     margin: 0;
 }
@@ -16,11 +23,11 @@ body {
 /* layout */
 
 .logo {
-    width: 200px;
+    width: 350px;
 }
 
 .content-container {
-    max-width: 980px;
+    max-width: 1280px;
     margin: 0 auto;
     width: 100%;
     padding: 0 4rem;
@@ -33,18 +40,37 @@ body {
 /* typography */
 
 h1, h2, h3, h4 {
-    font-family: 'Playfair Display', serif;
-    font-weight: 300;
+    font-family: 'Merriweather', serif;
+    font-weight: 400;
     margin-bottom: 1rem;
 }
 
 h1 {
-    text-align: center;
+    font-size: 1.8rem;
+    max-width: 40rem;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 p {
     line-height: 1.5em;
+    margin-bottom: 1rem;
+    max-width: 40rem;
+    margin: auto;
     margin-bottom: 1em;
+    font-size: 1.2rem;
+}
+
+.strong {
+    font-weight: 700;
+}
+
+.caps {
+    text-transform: uppercase;
+}
+
+.main-body {
+    font-size: 1.2rem;
 }
 
 .text-center {
@@ -86,7 +112,7 @@ p {
 }
 
 .modal-content {
-    padding:3em;
+    padding:3rem;
     overflow-y: auto;
     -webkit-overflow-scrolling: touch;
     height: 100%;
@@ -96,15 +122,15 @@ p {
     object-fit: contain;
 }
 
-@media (min-width: 60em) {
+/* @media (min-width: 60rem) {
     .modal {
         height:85%;
         margin:5% auto;
-        max-height: 57em;
-        max-width:66em;
+        max-height: 57rem;
+        max-width:66rem;
         width:85%;
     }
-}
+} */
 
 .modal-close {
     background-color:turquoise;
@@ -121,9 +147,12 @@ p {
 
 /* modifiers */
 
+.bg-blue {
+    background: var(--blue);
+}
+
 .bg-green {
-    background: #0d474e;
-    color: #7fb4af;
+    background: var(--green);
 }
 
 .full-width {
@@ -166,6 +195,10 @@ p {
     justify-content: flex-end;
 }
 
+.justify-space-bt {
+    justify-content: space-between;
+}
+
 .object-cover {
     object-fit: cover;
 }
@@ -186,12 +219,24 @@ p {
     padding-bottom: 4rem;
 }
 
+.padding-left {
+    padding-left: 2rem;
+}
+
+.padding-right {
+    padding-right: 2rem;
+}
+
 .margin-top {
     margin-top: 2rem;
 }
 
 .margin-top-lge {
     margin-top: 4rem;
+}
+
+.margin-left {
+    margin-left: 2rem;
 }
 
 .margin-right {
@@ -212,53 +257,121 @@ p {
 
 /* specific */
 
+.main-nav {
+    max-width: 400px;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin: auto;
+}
+
+@media (min-width: 550px) {
+    .main-nav {
+        max-width: 900px;
+        justify-content: space-between;
+    }
+}
+
 .main-nav-item {
+    color: #353535;
     text-decoration: none;
-    color: #7fb4af;
     padding: 0px 1rem;
+    line-height: 1.5em;
     white-space: nowrap;
 }
 
-.main-nav-item.active {
-    color: #b47f7f;
+.footer-content {
+    flex-direction: column;
+    text-align: center;
+}
+
+@media (min-width: 720px) {
+    .footer-content {
+        flex-direction: row;
+        text-align: left;
+    }
+}
+
+.footer p {
+    font-size: 1rem;
+}
+
+.footer-nav {
+    text-align: center;
+    flex-direction: column;
+    margin-top: 1rem;
+}
+
+@media (min-width: 720px) {
+    .footer-nav {
+        text-align: right;
+        margin-top: 0rem;
+    }
 }
 
 .footer-nav-item {
+    color: #ffffff;
     text-decoration: none;
-    color: #7fb4af;
     line-height: 1.5em;
     font-weight: 700;
 }
 
+.contact {
+    margin-bottom: 1rem;
+}
+
+@media (min-width: 720px) {
+    .contact {
+        margin-bottom: 0rem;
+        margin-right: 2rem;
+    }
+}
+
+.social {
+    white-space: nowrap;
+}
+
+@media (min-width: 720px) {
+    .social {
+        margin-right: 4rem;
+    }
+}
+
+.social a {
+    text-decoration: none;
+}
+
 .social img {
-    height: 1.5em;
-    margin-left: 0.5em;
+    height: 1.5rem;
+    margin-left: 0.5rem;
 }
 
 .case-study {
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    grid-template-rows: auto repeat(2, 1fr);
-    grid-column-gap: 1em;
-    grid-row-gap: 1em;
+    grid-template-columns: 1fr 2fr;
+    grid-template-rows: auto;
+    grid-column-gap: 4rem;
+    align-items: center;
+}
+
+.case-study-summary {
+    grid-area: 1 / 1 / 2 / 2;
+}
+
+.case-study-image {
+    grid-area: 1 / 2 / 2 / 3;
 }
 
 .case-study-title {
-    grid-area: 1 / 1 / 2 / 4;
+    font-size: 1.2rem;
 }
 
-.case-study-1 {
-    grid-area: 2 / 1 / 4 / 3;
+.case-study-title a {
+    color: currentColor;
+    text-decoration: none;
 }
 
-.case-study-2 {
-    grid-area: 2 / 3 / 3 / 4;
-    height: 100%;
-}
-
-.case-study-3 {
-    grid-area: 3 / 3 / 4 / 4;
-    height: 100%;
+.case-study-summary p {
+    font-size: 1rem;
 }
 
 .case-study img {
@@ -267,11 +380,20 @@ p {
     object-fit: cover;
 }
 
+.case-study-view {
+    color: currentColor;
+}
+
+.case-study-view::after {
+    content: '»';
+    margin-left: 0.2em;
+}
+
 .thumbs {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(12rem, 1fr));
     grid-auto-rows: 1fr;
-    grid-gap: 1em;
+    grid-gap: 1rem;
 }
 
 .thumbs::before {
@@ -287,8 +409,93 @@ p {
     grid-column: 1 / 1;
 }
 
+.tell-me {
+    width: 100%;
+    max-width: 350px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 /* overrides */
 
-.home .logo {
+/* .home .logo {
     width: 400px;
+} */
+
+/* feed */
+.feed:after {
+    display: block;
+    content: '';
+    clear: both;
+}
+
+.feed-col {
+    float: left;
+    width: 49%;
+    margin-right: 2%;
+}
+
+.feed-col--4 { margin-right: 0; }
+
+/* hide two middle */
+.feed-col--2, .feed-col--3 { display: none; }
+
+@media ( min-width: 768px ) {
+    .feed-col { width: 32%; }
+    .feed-col--2 { display: block; }
+}
+
+@media ( min-width: 1200px ) {
+    .feed-col { width: 23.5%; }
+    .feed-col--2, .feed-col--3 { display: block; }
+}
+
+.feed-item {
+    margin-bottom: 1rem;
+}
+
+.feed-image {
+    height: 100%;
+    width: 100%;
+    display: block;
+}
+
+.feed-link {
+    display: block;
+    position: relative;
+}
+
+.feed-link:before {
+    content: '';
+    display: block;
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    background-color: #0d474e;
+    opacity: 0;
+    transition: opacity 350ms ease-out;
+}
+
+.feed-link:hover:before {
+    opacity: 1;
+}
+
+.feed-overlay-title {
+    display: block;
+    position: absolute;
+    top: 2rem;
+    right: 1rem;
+    left: 1rem;
+    bottom: 1rem;
+    color: #fff;
+    text-align: center;
+    font-size: 1.2rem;
+    opacity: 0;
+    transition: opacity 350ms ease-out;
+}
+
+.feed-link:hover .feed-overlay-title {
+    opacity: 1;
 }

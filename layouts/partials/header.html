@@ -1,0 +1,11 @@
+<header>
+    <nav class="main-nav flex caps padding-top padding-bottom">
+        {{ $currentPage := . }}
+        {{ range .Site.Menus.main }}
+        <a class="main-nav-item{{if ($currentPage.IsMenuCurrent "main" .) }} active{{end}}" href="{{ .URL }}" title="{{ .Title }}">{{ .Name }}</a>
+        {{ end }}
+    </nav>
+    <div class="flex justify-center margin-bottom">
+        <img class="logo margin-left margin-right" src="/images/Lucy_deburgh_logo_2.svg" />
+    </div>
+</header>

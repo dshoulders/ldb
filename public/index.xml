@@ -1,32 +1,59 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Lucy de Burgh</title>
+    <title>Home on Lucy de Burgh</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on Lucy de Burgh</description>
+    <description>Recent content in Home on Lucy de Burgh</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Fri, 08 May 2020 22:07:55 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2020 22:03:06 +0100</lastBuildDate>
     
 	<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Illustration</title>
-      <link>http://localhost:1313/illustration/</link>
-      <pubDate>Fri, 08 May 2020 22:07:55 +0100</pubDate>
+      <title>Cineon Productions rebrand</title>
+      <link>http://localhost:1313/design/case1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/illustration/</guid>
-      <description>Illustration </description>
+      <guid>http://localhost:1313/design/case1/</guid>
+      <description>Indulgence uncommonly met she continuing two unpleasing terminated. Now busy say down the shed eyes roof paid her. Of shameless collected suspicion existence in.</description>
     </item>
     
     <item>
-      <title>Design</title>
-      <link>http://localhost:1313/design/</link>
-      <pubDate>Fri, 08 May 2020 22:07:20 +0100</pubDate>
+      <title>Thumb One</title>
+      <link>http://localhost:1313/design/thumb1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/design/</guid>
-      <description>Design </description>
+      <guid>http://localhost:1313/design/thumb1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thumb One</title>
+      <link>http://localhost:1313/illustration/thumb1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/illustration/thumb1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thumb Two</title>
+      <link>http://localhost:1313/design/thumb2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/design/thumb2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thumb Two</title>
+      <link>http://localhost:1313/illustration/thumb2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/illustration/thumb2/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -35,7 +62,7 @@
       <pubDate>Fri, 08 May 2020 22:05:25 +0100</pubDate>
       
       <guid>http://localhost:1313/portraits/</guid>
-      <description></description>
+      <description>Portraits </description>
     </item>
     
     <item>
@@ -44,7 +71,8 @@
       <pubDate>Fri, 08 May 2020 22:03:06 +0100</pubDate>
       
       <guid>http://localhost:1313/about/</guid>
-      <description></description>
+      <description>About Hello. I’m Lucy, an illustrator and graphic designer based on the beautiful south coast of Devon. With over 6 years professional experience I’ve produced a wide range of artwork for a variety of print, web, film and exhibition projects, working with a diverse spectrum of clients.
+I bring a sense of fun and style to everything I do and have a passion for creating entirely original, bespoke pieces of work.</description>
     </item>
     
   </channel>

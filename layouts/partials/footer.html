@@ -1,8 +1,8 @@
-<footer class="footer margin-top-lge padding-bottom padding-top-lge bg-green">
-    <div class="content-container flex justify-end">
-        <div class="flex-left">
+<footer class="footer margin-top-lge padding-bottom-lge padding-top-lge bg-blue">
+    <div class="footer-content content-container flex justify-space-bt">
+        <div class="contact">
             <p>
-                If you would like to find out more about what I do <br/>
+                If you would like to find out more about what I do
                 or how I can help you then please get in touch.
             </p>
             <p>
@@ -12,7 +12,7 @@
                 hello@lucydeburgh.co.uk
             </p>                        
         </div>
-        <div class="social margin-right-lge">
+        <div class="social">
             <a href="https://www.facebook.com/lucydeebe/">
                 <img src="/images/icons/facebook.svg"/>
             </a>
@@ -23,12 +23,11 @@
                 <img src="/images/icons/linkedin.svg"/>
             </a>
         </div>
-        <nav class="flex column text-right">
-            <a class="footer-nav-item" href="/">Home</a>
-            <a class="footer-nav-item" href="/illustration">Illustration</a>
-            <a class="footer-nav-item" href="/design">Design</a>
-            <a class="footer-nav-item" href="/portraits">Portraits</a>
-            <a class="footer-nav-item" href="/about">About Me</a>
+        <nav class="footer-nav flex">
+            {{ $currentPage := . }}
+                {{ range .Site.Menus.main }}
+                <a class="footer-nav-item" href="{{ .URL }}" title="{{ .Title }}">{{ .Name }}</a>
+            {{ end }}
         </nav>
     </div>
 </footer>

@@ -1,5 +1,5 @@
 ---
-title: "About Me"
+title: "About"
 menu: "main"
 weight: 5
 type: "about"
@@ -7,7 +7,7 @@ date: 2020-05-08T22:03:06+01:00
 draft: false
 ---
 
-# About Me
+# About
 
 Hello. I’m Lucy, an illustrator and graphic designer based on the beautiful south coast of Devon. With over 6 years professional experience I’ve produced a wide range of artwork for a variety of print, web, film and exhibition projects, working with a diverse spectrum of clients.
 
