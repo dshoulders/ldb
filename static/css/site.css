@@ -1,5 +1,6 @@
 :root {
     --blue: #89B8B3;
+    --blue-light: #C4DBD9;
     --yellow: #F2C351;
     --green: #A3AD3C;
     --pink: #F16C63;
@@ -151,6 +152,10 @@ p {
     background: var(--blue);
 }
 
+.bg-blue-light {
+    background: var(--blue-light);
+}
+
 .bg-green {
     background: var(--green);
 }
@@ -279,6 +284,10 @@ p {
     white-space: nowrap;
 }
 
+.main-nav-item.active {
+    color: var(--pink);
+}
+
 .footer-content {
     flex-direction: column;
     text-align: center;
@@ -362,7 +371,7 @@ p {
 }
 
 .case-study-title {
-    font-size: 1.2rem;
+    font-size: 1.5rem;
 }
 
 .case-study-title a {
