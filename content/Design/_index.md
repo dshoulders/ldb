@@ -9,4 +9,4 @@ draft: false
 
 # Design
 
-Simple innate summer fat appear basket his desire joy. Outward clothes promise at gravity do excited. Sufficient particular impossible by reasonable oh expression is. Yet preference connection unpleasant yet melancholy but end appearance. And excellence partiality estimating terminated day everything.
+Every design project, no matter the size, is a joy to work on, whether it's an entire corporate identity rebrand or an A5 promotional flyer. Each project is an exciting new creative process for both me and my client.

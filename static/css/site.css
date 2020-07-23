@@ -31,7 +31,7 @@ body {
     max-width: 1280px;
     margin: 0 auto;
     width: 100%;
-    padding: 0 1rem;
+    padding: 0 2rem;
 }
 
 @media (min-width: 768px) {
@@ -86,6 +86,10 @@ p {
 
 .text-right {
     text-align: right;
+}
+
+img {
+    max-width: 100%;
 }
 
 /* Modal */
@@ -266,6 +270,36 @@ p {
     margin-bottom: 4rem;
 }
 
+.col-2 {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: auto;
+    grid-column-gap: 2rem;
+}
+
+.img-row img {
+    width: 100%;
+    height: auto;
+    vertical-align: middle;
+    margin-bottom: 2rem;
+}
+
+.img-row img:last-child {
+    margin-bottom: 0rem;
+}
+
+@media (min-width: 720px) {
+    .img-row {
+        display: grid;
+        grid-column-gap: 2rem;
+    }
+
+    .img-row img {
+        margin-bottom: 0rem;
+    }
+}
+
+
 /* specific */
 
 .main-nav {
@@ -334,6 +368,10 @@ p {
     margin-bottom: 1rem;
 }
 
+.contact p {
+    max-width: 34rem;
+}
+
 @media (min-width: 720px) {
     .contact {
         margin-bottom: 0rem;
@@ -361,11 +399,20 @@ p {
 }
 
 .case-study {
-    display: grid;
+    display: flex;
+    flex-direction: column-reverse;
     grid-template-columns: 1fr 2fr;
     grid-template-rows: auto;
     grid-column-gap: 4rem;
     align-items: center;
+    text-align: center;
+}
+
+@media (min-width: 820px) {
+    .case-study {
+        display: grid;
+        text-align: left;
+    }
 }
 
 .case-study-summary {
@@ -406,7 +453,7 @@ p {
 
 .thumbs {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(12rem, 1fr));
+    grid-template-columns: repeat(auto-fill, minmax(16rem, 1fr));
     grid-auto-rows: 1fr;
     grid-gap: 1rem;
 }
