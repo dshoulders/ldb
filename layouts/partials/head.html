@@ -1,5 +1,9 @@
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
+<link rel='dns-prefetch' href='https://cdn.curator.io' />
+<link rel='dns-prefetch' href='https://api.curator.io' />
+<link rel='dns-prefetch' href='https://www.instagram.com' />
+<link rel='dns-prefetch' href='https://fonts.gstatic.com' />
 <title>{{ block "title" . }}
 {{- .Title }} - {{ .Site.Title -}}
 {{ end }}</title>
@@ -13,7 +17,7 @@
 <meta name="author" content="{{ .Params.Author}}" />
 {{ end }}
 {{ hugo.Generator }}
-
+<link rel="icon" href="/images/cropped-monogram-white-32x32.jpg" sizes="32x32" />
 <link href="https://fonts.googleapis.com/css2?family=Raleway:wght@400;700&family=Merriweather:wght@400&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="/css/sliderjs-style-v1.css">
 <link href="/css/site.css" rel="stylesheet" />

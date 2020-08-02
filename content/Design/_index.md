@@ -1,5 +1,6 @@
 ---
 title: "Design"
+description: "Design services including corporate identity branding, logo design, website design and promotional digital and print media"
 menu: "main"
 weight: 3
 type: "work"

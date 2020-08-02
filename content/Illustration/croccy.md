@@ -3,6 +3,7 @@ title: "Croccy Christmas"
 type: "thumb"
 weight: 1
 draft: false
-url_sml: "/images/illustration/croccy_xmas.jpg"
-url_lge: "/images/illustration/croccy_xmas_lrg.jpg"
+url_sml: "/images/illustration/croccy_xmas"
+url_lge: "/images/illustration/croccy_xmas_lrg"
+alt: "Christmas card illustration with crocodile and monkeys"
 ---

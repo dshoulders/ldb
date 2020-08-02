@@ -1,6 +1,6 @@
 <div class="case-study margin-top-lge"> 
     <a class="case-study-image" href="{{ .RelPermalink }}">
-        <img src="{{ .Param "image_url" }}" />
+        {{- partial "webp.html" (dict "src" (.Param "image_url") "alt" (.Param "image_alt")) -}} 
     </a>
     <div class="case-study-summary">
         <h2 class="case-study-title"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>

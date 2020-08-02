@@ -9,3 +9,5 @@ Pink #F16C63
 
 Header - Merryweather Regular
 Body - Railway
+
+find . -iname '*.jpg' -type f -exec bash -c 'gm convert -quality 80 "$0" "${0%.jpg}.webp"' {} \;

@@ -1,6 +1,6 @@
 <div class="thumb">
     <a class="block full-width full-height" href="#{{ .RelPermalink }}">
-        <img class="full-width full-height object-cover" src="{{ .Param "url_sml" }}" />
+        {{- partial "webp.html" (dict "src" (.Param "url_sml") "alt" (.Param "alt")) "class" "full-width full-height object-cover" -}} 
     </a>
     <div id="{{ .RelPermalink }}" class="modaloverlay">
         <div class="modal">
@@ -8,7 +8,7 @@
             <div class="modal-content">
                 <h2>{{ .Title }}</h2>
                 <div class="modal-body">
-                    <img class="full-width" src="{{ .Param "url_lge" }}" />
+                    {{- partial "webp.html" (dict "src" (.Param "url_lge") "alt" (.Param "alt")) "class" "full-width" -}} 
                 </div>
             </div>
         </div>

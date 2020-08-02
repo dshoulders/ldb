@@ -1,5 +1,6 @@
 ---
 title: "Home"
+description: "Lucy de Burgh, freelance illustrator and designer based in South Devon"
 menu: "main"
 weight: 1
 date: 2020-05-08T22:03:06+01:00
