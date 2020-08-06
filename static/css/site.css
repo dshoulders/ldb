@@ -461,6 +461,17 @@ img {
 
 .case-study-image {
     grid-area: 1 / 2 / 2 / 3;
+    overflow: hidden;
+    height: 100%;
+    position: relative;
+}
+
+.case-study-image img {
+    transition: transform 1s ease-in-out;
+}
+
+.case-study-image:hover img {
+    transform: scale(1.05);
 }
 
 .case-study-title {
@@ -470,6 +481,10 @@ img {
 .case-study-title a {
     color: currentColor;
     text-decoration: none;
+}
+
+.case-study-title a:hover {
+    color: var(--pink);
 }
 
 .case-study-summary p {
