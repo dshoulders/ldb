@@ -533,6 +533,17 @@ img {
     margin-right: auto;
 }
 
+.dots {
+    display: none;
+    position: relative;
+    width: 40%;
+    margin: 0 auto -2rem;
+}
+
+.dots-4 {
+    display: none;
+}
+
 .annotated {
     display: flex;
     flex-direction: column;
@@ -542,11 +553,39 @@ img {
 }
 
 @media ( min-width: 768px ) {
+    .dots {
+        display: block;
+    }
+
+    .dots-3 img {
+        transform: rotate(-6deg);
+    }
+
+    .dots-4 {
+        display: block;
+        position: absolute;
+        width: 30%;
+        top: -5.5rem;
+        left: -2rem;
+    }
+
+    .dots + .annotated {
+        margin-top: 0;
+    }
+
+    .annotated:last-child {
+        position: relative;
+    }
+
+    .annotated:last-child p {
+        width: 22rem;
+    }
+
     .annotated:not(:last-child) {
         flex-direction: row;
     }
 
-    .annotated:nth-child(even):not(:last-child) {
+    .annotated.reversed {
         flex-direction: row-reverse;
     }
 }
