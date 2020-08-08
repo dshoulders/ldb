@@ -1,5 +1,5 @@
 <div class="thumb">
-    <a class="block full-width full-height" href="#{{ .RelPermalink }}">
+    <a class="block full-width full-height thumb-modal-link" href="#{{ .RelPermalink }}">
         {{- partial "webp.html" (dict "src" (.Param "url_sml") "alt" (.Param "alt")) "class" "full-width full-height object-cover" -}} 
     </a>
     <div id="{{ .RelPermalink }}" class="modaloverlay">

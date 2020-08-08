@@ -127,21 +127,12 @@ img {
     overflow-y: auto;
     -webkit-overflow-scrolling: touch;
     height: 100%;
+    text-align: center;
 }
 
 .modal-body {
     object-fit: contain;
 }
-
-/* @media (min-width: 60rem) {
-    .modal {
-        height:85%;
-        margin:5% auto;
-        max-height: 57rem;
-        max-width:66rem;
-        width:85%;
-    }
-} */
 
 .modal-close {
     background-color:turquoise;
@@ -524,6 +515,16 @@ img {
 .thumbs > *:first-child {
     grid-row: 1 / 1;
     grid-column: 1 / 1;
+}
+
+.thumb-modal-link {
+    pointer-events: none;
+}
+
+@media ( min-width: 768px ) {
+    .thumb-modal-link {
+        pointer-events: initial;
+    }
 }
 
 .tell-me {
