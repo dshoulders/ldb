@@ -25,6 +25,7 @@ body {
 
 .logo {
     width: 350px;
+    height: 248.61px;
 }
 
 .content-container {
@@ -621,12 +622,7 @@ img {
     margin: 0em;
 }
 
-
 /* overrides */
-
-/* .home .logo {
-    width: 400px;
-} */
 
 /* feed */
 .feed:after {
