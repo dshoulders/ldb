@@ -6,35 +6,67 @@
     <description>Recent content in Design on Lucy de Burgh</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Fri, 08 May 2020 22:07:20 +0100</lastBuildDate>
-    
-	<atom:link href="http://localhost:1313/design/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Fri, 08 May 2020 22:07:20 +0100</lastBuildDate><atom:link href="http://localhost:1313/design/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Cineon Productions rebrand</title>
-      <link>http://localhost:1313/design/case1/</link>
+      <title>Bambino Bamboo</title>
+      <link>http://localhost:1313/design/bambino/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/design/case1/</guid>
-      <description>Indulgence uncommonly met she continuing two unpleasing terminated. Now busy say down the shed eyes roof paid her. Of shameless collected suspicion existence in.</description>
-    </item>
-    
-    <item>
-      <title>Thumb One</title>
-      <link>http://localhost:1313/design/thumb1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/design/thumb1/</guid>
+      <guid>http://localhost:1313/design/bambino/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Thumb Two</title>
-      <link>http://localhost:1313/design/thumb2/</link>
+      <title>Cineon Productions</title>
+      <link>http://localhost:1313/design/cineon-productions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/design/thumb2/</guid>
+      <guid>http://localhost:1313/design/cineon-productions/</guid>
+      <description>When Cineon Productions came to me with an idea to refresh their brand, I was delighted to go on the journey with them.</description>
+    </item>
+    
+    <item>
+      <title>Report Harmful Content</title>
+      <link>http://localhost:1313/design/rhc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/design/rhc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Family Food</title>
+      <link>http://localhost:1313/design/food/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/design/food/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Human Performance Solutions</title>
+      <link>http://localhost:1313/design/human/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/design/human/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Who&#39;s Talking</title>
+      <link>http://localhost:1313/design/talking/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/design/talking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Pickled Pig</title>
+      <link>http://localhost:1313/design/pickled/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/design/pickled/</guid>
       <description></description>
     </item>
     

@@ -1,0 +1,56 @@
+---
+title: "Test Page"
+description: "Test Page"
+weight: 4
+date: 2020-05-08T22:05:25+01:00
+draft: false
+---
+
+<main class="flex-expand text-center">
+    <div id="paypal-button-container"></div>
+    <script
+        src="https://www.paypal.com/sdk/js?currency=GBP&merchant-id=QXJT7QYN5CJ56&client-id=sb"></script>
+    <script>
+        paypal.Buttons({
+            style: {
+                color: 'blue',
+            },
+            createOrder: function (data, actions) {
+                // Set up the transaction
+                return actions.order.create({
+                    purchase_units: [{
+                        amount: {
+                            currency_code: 'GBP',
+                            value: '0.21',
+                            breakdown: {
+                                item_total: {
+                                    currency_code: 'GBP',
+                                    value: '0.21',
+                                },
+                            },
+                        },
+                        items: [{
+                            name: 'The Name',
+                            unit_amount: {
+                                value: '0.21',
+                                currency_code: 'GBP'
+                            },
+                            quantity: 1,
+                        }],
+                    }]
+                });
+            },
+            onApprove: function(data, actions)  {
+
+                console.log('data', data);
+
+                // This function captures the funds from the transaction.
+                return actions.order.capture().then(function(details)  {
+                    // This function shows a transaction success message to your buyer.
+                    console.log('details', details);
+                    alert('Transaction completed by ' + details.payer.name.given_name);
+                });
+            }
+        }).render('#paypal-button-container');
+    </script>
+</main>

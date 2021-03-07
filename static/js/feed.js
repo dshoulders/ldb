@@ -13,7 +13,7 @@
 
         const { image, url, text } = post;
         
-        if (/curator\.io/.test(image)) return;
+        if (/curator\.io/.test(url)) return;
 
         const template = document.querySelector('#t_feed_item');
         const postElement = template.content.cloneNode(true);

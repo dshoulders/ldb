@@ -3,20 +3,48 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://localhost:1313/illustration/under_the_stairs/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/illustration/bug_band/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/illustration/jazz_cat/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/illustration/not_alone/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/illustration/old_man/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/illustration/christmas_street/</loc>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/</loc>
     <lastmod>2020-05-08T22:03:06+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/design/case1/</loc>
+    <loc>http://localhost:1313/design/bambino/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/design/thumb1/</loc>
+    <loc>http://localhost:1313/design/cineon-productions/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/illustration/thumb1/</loc>
+    <loc>http://localhost:1313/illustration/croccy/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/illustration/velvet-and-stone/</loc>
   </url>
   
   <url>
@@ -25,11 +53,11 @@
   </url>
   
   <url>
-    <loc>http://localhost:1313/design/thumb2/</loc>
+    <loc>http://localhost:1313/design/rhc/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/illustration/thumb2/</loc>
+    <loc>http://localhost:1313/illustration/snail/</loc>
   </url>
   
   <url>
@@ -38,13 +66,53 @@
   </url>
   
   <url>
-    <loc>http://localhost:1313/portraits/</loc>
+    <loc>http://localhost:1313/design/food/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/illustration/tiger/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tester/</loc>
     <lastmod>2020-05-08T22:05:25+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/design/human/</loc>
   </url>
   
   <url>
     <loc>http://localhost:1313/about/</loc>
     <lastmod>2020-05-08T22:03:06+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/illustration/milestone2/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/design/talking/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/illustration/milestone1/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/illustration/rhc/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/design/pickled/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/illustration/dancefloor/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/illustration/bambino/</loc>
   </url>
   
   <url>

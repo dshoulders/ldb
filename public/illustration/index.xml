@@ -6,26 +6,139 @@
     <description>Recent content in Illustration on Lucy de Burgh</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Fri, 08 May 2020 22:07:55 +0100</lastBuildDate>
-    
-	<atom:link href="http://localhost:1313/illustration/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Fri, 08 May 2020 22:07:55 +0100</lastBuildDate><atom:link href="http://localhost:1313/illustration/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Thumb One</title>
-      <link>http://localhost:1313/illustration/thumb1/</link>
+      <title>Something Under The Stairs</title>
+      <link>http://localhost:1313/illustration/under_the_stairs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/illustration/thumb1/</guid>
+      <guid>http://localhost:1313/illustration/under_the_stairs/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Thumb Two</title>
-      <link>http://localhost:1313/illustration/thumb2/</link>
+      <title>Bug Band</title>
+      <link>http://localhost:1313/illustration/bug_band/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/illustration/thumb2/</guid>
+      <guid>http://localhost:1313/illustration/bug_band/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jazz Cat</title>
+      <link>http://localhost:1313/illustration/jazz_cat/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/illustration/jazz_cat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Not Alone</title>
+      <link>http://localhost:1313/illustration/not_alone/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/illustration/not_alone/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Old Man</title>
+      <link>http://localhost:1313/illustration/old_man/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/illustration/old_man/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Christmas Street</title>
+      <link>http://localhost:1313/illustration/christmas_street/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/illustration/christmas_street/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Croccy Christmas</title>
+      <link>http://localhost:1313/illustration/croccy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/illustration/croccy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Velvet and Stone</title>
+      <link>http://localhost:1313/illustration/velvet-and-stone/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/illustration/velvet-and-stone/</guid>
+      <description>Devon based band Velvet and Stone approached me to illustrate their latest album. We worked together, marrying our creativity, to create a wonderful illustrated journey.</description>
+    </item>
+    
+    <item>
+      <title>Sea Snail</title>
+      <link>http://localhost:1313/illustration/snail/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/illustration/snail/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>King Tiger</title>
+      <link>http://localhost:1313/illustration/tiger/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/illustration/tiger/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Editorial Illustration</title>
+      <link>http://localhost:1313/illustration/milestone2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/illustration/milestone2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Editorial Illustration</title>
+      <link>http://localhost:1313/illustration/milestone1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/illustration/milestone1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Report Harmful Content</title>
+      <link>http://localhost:1313/illustration/rhc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/illustration/rhc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dancefloor</title>
+      <link>http://localhost:1313/illustration/dancefloor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/illustration/dancefloor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bambino Bamboo</title>
+      <link>http://localhost:1313/illustration/bambino/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/illustration/bambino/</guid>
       <description></description>
     </item>
     

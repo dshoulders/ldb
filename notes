@@ -11,3 +11,6 @@ Header - Merryweather Regular
 Body - Railway
 
 find . -iname '*.jpg' -type f -exec bash -c 'gm convert -quality 80 "$0" "${0%.jpg}.webp"' {} \;
+
+PayPal Client ID: 
+AXci8AsMswhY0VpAj9QLd96nmIxM2URlspAZb__55-RbbVJOGIFzpTbhX8P0p26KrbkqUMUx6btGM410
