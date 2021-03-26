@@ -107,38 +107,11 @@
     </item>
     
     <item>
-      <title>Editorial Illustration</title>
-      <link>http://localhost:1313/illustration/milestone1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/illustration/milestone1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Report Harmful Content</title>
-      <link>http://localhost:1313/illustration/rhc/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/illustration/rhc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Dancefloor</title>
       <link>http://localhost:1313/illustration/dancefloor/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/illustration/dancefloor/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bambino Bamboo</title>
-      <link>http://localhost:1313/illustration/bambino/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/illustration/bambino/</guid>
       <description></description>
     </item>
     

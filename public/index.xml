@@ -98,15 +98,6 @@
     </item>
     
     <item>
-      <title>Report Harmful Content</title>
-      <link>http://localhost:1313/design/rhc/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/design/rhc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Sea Snail</title>
       <link>http://localhost:1313/illustration/snail/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -116,11 +107,20 @@
     </item>
     
     <item>
-      <title>Family Food</title>
-      <link>http://localhost:1313/design/food/</link>
+      <title>Who&#39;s Talking</title>
+      <link>http://localhost:1313/design/talking/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/design/food/</guid>
+      <guid>http://localhost:1313/design/talking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Human Performance Solutions</title>
+      <link>http://localhost:1313/design/human/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/design/human/</guid>
       <description></description>
     </item>
     
@@ -143,11 +143,11 @@
     </item>
     
     <item>
-      <title>Human Performance Solutions</title>
-      <link>http://localhost:1313/design/human/</link>
+      <title>Family Food</title>
+      <link>http://localhost:1313/design/food/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/design/human/</guid>
+      <guid>http://localhost:1313/design/food/</guid>
       <description></description>
     </item>
     
@@ -170,29 +170,11 @@
     </item>
     
     <item>
-      <title>Who&#39;s Talking</title>
-      <link>http://localhost:1313/design/talking/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/design/talking/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Editorial Illustration</title>
-      <link>http://localhost:1313/illustration/milestone1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/illustration/milestone1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Report Harmful Content</title>
-      <link>http://localhost:1313/illustration/rhc/</link>
+      <link>http://localhost:1313/design/rhc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/illustration/rhc/</guid>
+      <guid>http://localhost:1313/design/rhc/</guid>
       <description></description>
     </item>
     
@@ -211,15 +193,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/illustration/dancefloor/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bambino Bamboo</title>
-      <link>http://localhost:1313/illustration/bambino/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/illustration/bambino/</guid>
       <description></description>
     </item>
     

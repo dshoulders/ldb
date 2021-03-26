@@ -26,20 +26,11 @@
     </item>
     
     <item>
-      <title>Report Harmful Content</title>
-      <link>http://localhost:1313/design/rhc/</link>
+      <title>Who&#39;s Talking</title>
+      <link>http://localhost:1313/design/talking/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/design/rhc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Family Food</title>
-      <link>http://localhost:1313/design/food/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/design/food/</guid>
+      <guid>http://localhost:1313/design/talking/</guid>
       <description></description>
     </item>
     
@@ -53,11 +44,20 @@
     </item>
     
     <item>
-      <title>Who&#39;s Talking</title>
-      <link>http://localhost:1313/design/talking/</link>
+      <title>Family Food</title>
+      <link>http://localhost:1313/design/food/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/design/talking/</guid>
+      <guid>http://localhost:1313/design/food/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Report Harmful Content</title>
+      <link>http://localhost:1313/design/rhc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/design/rhc/</guid>
       <description></description>
     </item>
     
