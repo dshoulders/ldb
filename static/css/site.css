@@ -96,6 +96,7 @@ img {
 /* Modal */
 
 .modaloverlay {
+    width: 100vw;
     background:rgba(0,0,0,0.8);
     bottom:0;
     left:0;
@@ -499,23 +500,28 @@ img {
 }
 
 .thumbs {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(16rem, 1fr));
-    grid-auto-rows: 1fr;
-    grid-gap: 1rem;
+    column-count: 1;
+    column-gap: 20px;
 }
 
-.thumbs::before {
-    content: '';
-    width: 0;
-    padding-bottom: 100%;
-    grid-row: 1 / 1;
-    grid-column: 1 / 1;
+@media ( min-width: 550px ) {
+    .thumbs {
+        column-count: 2;
+    }
 }
 
-.thumbs > *:first-child {
-    grid-row: 1 / 1;
-    grid-column: 1 / 1;
+@media ( min-width: 768px ) {
+    .thumbs {
+        column-count: 3;
+    }
+}
+
+.thumb {
+    margin-bottom: 20px;
+}
+
+.thumb img {
+    vertical-align: middle;
 }
 
 .thumb-modal-link {
