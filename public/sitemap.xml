@@ -90,6 +90,10 @@
   </url>
   
   <url>
+    <loc>http://localhost:1313/illustration/space_internal/</loc>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/tester/</loc>
     <lastmod>2020-05-08T22:05:25+01:00</lastmod>
   </url>
