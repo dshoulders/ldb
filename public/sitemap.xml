@@ -52,11 +52,11 @@
   </url>
   
   <url>
-    <loc>http://localhost:1313/design/cineon-productions/</loc>
+    <loc>http://localhost:1313/illustration/croccy/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/illustration/croccy/</loc>
+    <loc>http://localhost:1313/design/sylvawood-seeds/</loc>
   </url>
   
   <url>
@@ -66,6 +66,10 @@
   <url>
     <loc>http://localhost:1313/illustration/</loc>
     <lastmod>2020-05-08T22:07:55+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/design/cineon-productions/</loc>
   </url>
   
   <url>
@@ -103,6 +107,10 @@
   </url>
   
   <url>
+    <loc>http://localhost:1313/design/online-safety-day/</loc>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/about/</loc>
     <lastmod>2020-05-08T22:03:06+01:00</lastmod>
   </url>
@@ -124,7 +132,11 @@
   </url>
   
   <url>
-    <loc>http://localhost:1313/design/sylvawood-seeds/</loc>
+    <loc>http://localhost:1313/design/edtesa/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/design/sylvawood-seeds-packets/</loc>
   </url>
   
   <url>

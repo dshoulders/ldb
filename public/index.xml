@@ -107,15 +107,6 @@
     </item>
     
     <item>
-      <title>Cineon Productions</title>
-      <link>http://localhost:1313/design/cineon-productions/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/design/cineon-productions/</guid>
-      <description>When Cineon Productions came to me with an idea to refresh their brand, I was delighted to go on the journey with them.</description>
-    </item>
-    
-    <item>
       <title>Croccy Christmas</title>
       <link>http://localhost:1313/illustration/croccy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -125,12 +116,30 @@
     </item>
     
     <item>
+      <title>Sylvawood Seeds</title>
+      <link>http://localhost:1313/design/sylvawood-seeds/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/design/sylvawood-seeds/</guid>
+      <description>Sylvawood seeds was a well established seed supplier with agricultural and commercial clients who were looking to diversify into the domestic market with a brand new range of wildlife conservation seeds.</description>
+    </item>
+    
+    <item>
       <title>Velvet and Stone</title>
       <link>http://localhost:1313/illustration/velvet-and-stone/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/illustration/velvet-and-stone/</guid>
       <description>Devon based band Velvet and Stone approached me to illustrate their latest album. We worked together, marrying our creativity, to create a wonderful illustrated journey.</description>
+    </item>
+    
+    <item>
+      <title>Cineon Productions</title>
+      <link>http://localhost:1313/design/cineon-productions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/design/cineon-productions/</guid>
+      <description>When Cineon Productions came to me with an idea to refresh their brand, I was delighted to go on the journey with them.</description>
     </item>
     
     <item>
@@ -197,6 +206,15 @@
     </item>
     
     <item>
+      <title>Online Safety Day Slides</title>
+      <link>http://localhost:1313/design/online-safety-day/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/design/online-safety-day/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>About</title>
       <link>http://localhost:1313/about/</link>
       <pubDate>Fri, 08 May 2020 22:03:06 +0100</pubDate>
@@ -242,11 +260,20 @@
     </item>
     
     <item>
-      <title>Sylvawood Seeds</title>
-      <link>http://localhost:1313/design/sylvawood-seeds/</link>
+      <title>Edtesa</title>
+      <link>http://localhost:1313/design/edtesa/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/design/sylvawood-seeds/</guid>
+      <guid>http://localhost:1313/design/edtesa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sylvawood Seeds</title>
+      <link>http://localhost:1313/design/sylvawood-seeds-packets/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/design/sylvawood-seeds-packets/</guid>
       <description></description>
     </item>
     
