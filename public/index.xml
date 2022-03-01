@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on Lucy de Burgh</title>
@@ -6,7 +6,11 @@
     <description>Recent content in Home on Lucy de Burgh</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Fri, 08 May 2020 22:03:06 +0100</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 08 May 2020 22:03:06 +0100</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Not Alone</title>
       <link>http://localhost:1313/illustration/not_alone/</link>
@@ -121,7 +125,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/design/sylvawood-seeds/</guid>
-      <description>Sylvawood seeds was a well established seed supplier with agricultural and commercial clients who were looking to diversify into the domestic market with a brand new range of wildlife conservation seeds.</description>
+      <description>Sylvawood Seeds  Sylvawood Seeds wanted a product with a look that would stand out from the rest, proudly reflect their eco ethos and look great on the shelf of any garden centre or gift shop.     Together, using market research, mood boards and concept development we created a brand that ticked all the boxes and was tailored to suit their target audience. We sourced a print company that could not only deliver the quality of the product that was required but also had the ‘green’ approach that would match the brand.</description>
     </item>
     
     <item>
@@ -130,7 +134,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/illustration/velvet-and-stone/</guid>
-      <description>Devon based band Velvet and Stone approached me to illustrate their latest album. We worked together, marrying our creativity, to create a wonderful illustrated journey.</description>
+      <description>Velvet and Stone  The self titled Velvet &amp; Stone album is the third piece I’ve worked on with the Devon based indie-folk band. They had worked with a photographer and chosen an image for their front cover but wanted an illustrated insert that would compliment their style, the music and the beautiful photograph.     We discussed possibilities and landed upon the notion of a journey.</description>
     </item>
     
     <item>
@@ -139,7 +143,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/design/cineon-productions/</guid>
-      <description>When Cineon Productions came to me with an idea to refresh their brand, I was delighted to go on the journey with them.</description>
+      <description>Cineon Productions  Cineon Productions, specialists in the creation of immersive extended reality content, had a successful brand with a look and feel they were happy with for several years but they felt everything needed a bit of a refresh as the company was diversifying and expanding.     I was asked to create something that utilised their current colour palette and was given a brief that welcomed creativity and a modern look whilst retaining the company’s trusted core values.</description>
     </item>
     
     <item>
@@ -175,6 +179,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/illustration/tiger/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Leebee Homes Ltd</title>
+      <link>http://localhost:1313/design/leebee-homes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/design/leebee-homes/</guid>
       <description></description>
     </item>
     
@@ -269,6 +282,15 @@
     </item>
     
     <item>
+      <title>Seed to table double page spread illustration</title>
+      <link>http://localhost:1313/illustration/seed-to-table/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/illustration/seed-to-table/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Sylvawood Seeds</title>
       <link>http://localhost:1313/design/sylvawood-seeds-packets/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -287,6 +309,15 @@
     </item>
     
     <item>
+      <title>Tacet logo design</title>
+      <link>http://localhost:1313/design/tacet-logo-design/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/design/tacet-logo-design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Jason and the Golden Fleece Double Page Spread</title>
       <link>http://localhost:1313/illustration/double-page-spread/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -301,6 +332,51 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/illustration/dengineers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Butleigh Garden Centre</title>
+      <link>http://localhost:1313/design/butleigh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/design/butleigh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dashup landing and tool pages</title>
+      <link>http://localhost:1313/design/dashup/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/design/dashup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Magnox 360 image site tour</title>
+      <link>http://localhost:1313/design/magnox/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/design/magnox/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SWGfL donation page illustration and UI design</title>
+      <link>http://localhost:1313/design/swgfl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/design/swgfl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TACET in-game competencies UI design</title>
+      <link>http://localhost:1313/design/tacet-ui/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/design/tacet-ui/</guid>
       <description></description>
     </item>
     

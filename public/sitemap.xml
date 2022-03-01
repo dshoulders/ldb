@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
@@ -94,6 +94,10 @@
   </url>
   
   <url>
+    <loc>http://localhost:1313/design/leebee-homes/</loc>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/illustration/space_internal/</loc>
   </url>
   
@@ -136,11 +140,19 @@
   </url>
   
   <url>
+    <loc>http://localhost:1313/illustration/seed-to-table/</loc>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/design/sylvawood-seeds-packets/</loc>
   </url>
   
   <url>
     <loc>http://localhost:1313/illustration/busy/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/design/tacet-logo-design/</loc>
   </url>
   
   <url>
@@ -152,7 +164,28 @@
   </url>
   
   <url>
+    <loc>http://localhost:1313/design/butleigh/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/design/dashup/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/design/magnox/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/design/swgfl/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/design/tacet-ui/</loc>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/categories/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -161,6 +194,7 @@
   
   <url>
     <loc>http://localhost:1313/tags/</loc>
+    <priority>0</priority>
   </url>
   
 </urlset>
