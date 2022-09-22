@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Design on Lucy de Burgh</title>
@@ -6,11 +6,7 @@
     <description>Recent content in Design on Lucy de Burgh</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Fri, 08 May 2020 22:07:20 +0100</lastBuildDate>
-    
-	<atom:link href="http://localhost:1313/design/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Fri, 08 May 2020 22:07:20 +0100</lastBuildDate><atom:link href="http://localhost:1313/design/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bambino Bamboo</title>
       <link>http://localhost:1313/design/bambino/</link>
@@ -26,7 +22,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/design/sylvawood-seeds/</guid>
-      <description>Sylvawood Seeds  Sylvawood Seeds wanted a product with a look that would stand out from the rest, proudly reflect their eco ethos and look great on the shelf of any garden centre or gift shop.     Together, using market research, mood boards and concept development we created a brand that ticked all the boxes and was tailored to suit their target audience. We sourced a print company that could not only deliver the quality of the product that was required but also had the ‘green’ approach that would match the brand.</description>
+      <description>Sylvawood seeds was a well established seed supplier with agricultural and commercial clients who were looking to diversify into the domestic market with a brand new range of wildlife conservation seeds.</description>
     </item>
     
     <item>
@@ -35,7 +31,16 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/design/cineon-productions/</guid>
-      <description>Cineon Productions  Cineon Productions, specialists in the creation of immersive extended reality content, had a successful brand with a look and feel they were happy with for several years but they felt everything needed a bit of a refresh as the company was diversifying and expanding.     I was asked to create something that utilised their current colour palette and was given a brief that welcomed creativity and a modern look whilst retaining the company’s trusted core values.</description>
+      <description>When Cineon Productions came to me with an idea to refresh their brand, I was delighted to go on the journey with them.</description>
+    </item>
+    
+    <item>
+      <title>Pastoral support website</title>
+      <link>http://localhost:1313/design/pastoral-support-website/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/design/pastoral-support-website/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -170,6 +175,51 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/design/tacet-ui/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Woman Rising logo</title>
+      <link>http://localhost:1313/design/woman-rising/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/design/woman-rising/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Butleigh Garden Centre branding</title>
+      <link>http://localhost:1313/design/butleigh-branding/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/design/butleigh-branding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cybersecurity report</title>
+      <link>http://localhost:1313/design/cybersecurity-report/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/design/cybersecurity-report/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Minerva brand guidelines</title>
+      <link>http://localhost:1313/design/minerva-brand-guidelines/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/design/minerva-brand-guidelines/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Snapchat guidelines</title>
+      <link>http://localhost:1313/design/snapchat-guidelines/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/design/snapchat-guidelines/</guid>
       <description></description>
     </item>
     

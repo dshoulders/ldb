@@ -1,200 +1,134 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>http://localhost:1313/illustration/not_alone/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://localhost:1313/illustration/under_the_stairs/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://localhost:1313/illustration/bug_band/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://localhost:1313/illustration/jazz_cat/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://localhost:1313/illustration/medea-spread/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://localhost:1313/illustration/storyteller/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://localhost:1313/illustration/jason-cover/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://localhost:1313/illustration/mum-monkeys/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://localhost:1313/illustration/old_man/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://localhost:1313/illustration/christmas_street/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://localhost:1313/</loc>
     <lastmod>2020-05-08T22:03:06+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://localhost:1313/design/bambino/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://localhost:1313/illustration/croccy/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://localhost:1313/design/sylvawood-seeds/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://localhost:1313/illustration/velvet-and-stone/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://localhost:1313/illustration/</loc>
     <lastmod>2020-05-08T22:07:55+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://localhost:1313/design/cineon-productions/</loc>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>http://localhost:1313/design/pastoral-support-website/</loc>
+  </url><url>
     <loc>http://localhost:1313/illustration/snail/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://localhost:1313/design/talking/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://localhost:1313/design/</loc>
     <lastmod>2020-05-08T22:07:20+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>http://localhost:1313/illustration/cat-christmas-card/</loc>
+  </url><url>
     <loc>http://localhost:1313/design/human/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://localhost:1313/illustration/tiger/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://localhost:1313/design/leebee-homes/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://localhost:1313/illustration/space_internal/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://localhost:1313/tester/</loc>
     <lastmod>2020-05-08T22:05:25+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://localhost:1313/design/food/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://localhost:1313/design/online-safety-day/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://localhost:1313/about/</loc>
     <lastmod>2020-05-08T22:03:06+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://localhost:1313/illustration/milestone2/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://localhost:1313/design/rhc/</loc>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>http://localhost:1313/illustration/yas-queen/</loc>
+  </url><url>
     <loc>http://localhost:1313/design/pickled/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://localhost:1313/illustration/dancefloor/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://localhost:1313/design/edtesa/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://localhost:1313/illustration/seed-to-table/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://localhost:1313/design/sylvawood-seeds-packets/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://localhost:1313/illustration/busy/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://localhost:1313/design/tacet-logo-design/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://localhost:1313/illustration/double-page-spread/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://localhost:1313/illustration/dengineers/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://localhost:1313/design/butleigh/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://localhost:1313/design/dashup/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://localhost:1313/design/magnox/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://localhost:1313/design/swgfl/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://localhost:1313/design/tacet-ui/</loc>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>http://localhost:1313/design/woman-rising/</loc>
+  </url><url>
+    <loc>http://localhost:1313/illustration/mr-crabsticks/</loc>
+  </url><url>
+    <loc>http://localhost:1313/illustration/pi-rats/</loc>
+  </url><url>
+    <loc>http://localhost:1313/design/butleigh-branding/</loc>
+  </url><url>
+    <loc>http://localhost:1313/design/cybersecurity-report/</loc>
+  </url><url>
+    <loc>http://localhost:1313/illustration/folktakeweek-dream/</loc>
+  </url><url>
+    <loc>http://localhost:1313/illustration/bower-bird/</loc>
+  </url><url>
+    <loc>http://localhost:1313/design/minerva-brand-guidelines/</loc>
+  </url><url>
+    <loc>http://localhost:1313/illustration/halloween-witch/</loc>
+  </url><url>
+    <loc>http://localhost:1313/design/snapchat-guidelines/</loc>
+  </url><url>
+    <loc>http://localhost:1313/illustration/folktakeweek-awakening/</loc>
+  </url><url>
+    <loc>http://localhost:1313/illustration/cool-cats/</loc>
+  </url><url>
     <loc>http://localhost:1313/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://localhost:1313/illustration/pirates/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://localhost:1313/tags/</loc>
-    <priority>0</priority>
   </url>
-  
 </urlset>

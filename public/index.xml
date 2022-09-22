@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on Lucy de Burgh</title>
@@ -6,11 +6,7 @@
     <description>Recent content in Home on Lucy de Burgh</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Fri, 08 May 2020 22:03:06 +0100</lastBuildDate>
-    
-	<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Fri, 08 May 2020 22:03:06 +0100</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Not Alone</title>
       <link>http://localhost:1313/illustration/not_alone/</link>
@@ -125,7 +121,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/design/sylvawood-seeds/</guid>
-      <description>Sylvawood Seeds  Sylvawood Seeds wanted a product with a look that would stand out from the rest, proudly reflect their eco ethos and look great on the shelf of any garden centre or gift shop.     Together, using market research, mood boards and concept development we created a brand that ticked all the boxes and was tailored to suit their target audience. We sourced a print company that could not only deliver the quality of the product that was required but also had the ‘green’ approach that would match the brand.</description>
+      <description>Sylvawood seeds was a well established seed supplier with agricultural and commercial clients who were looking to diversify into the domestic market with a brand new range of wildlife conservation seeds.</description>
     </item>
     
     <item>
@@ -134,7 +130,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/illustration/velvet-and-stone/</guid>
-      <description>Velvet and Stone  The self titled Velvet &amp; Stone album is the third piece I’ve worked on with the Devon based indie-folk band. They had worked with a photographer and chosen an image for their front cover but wanted an illustrated insert that would compliment their style, the music and the beautiful photograph.     We discussed possibilities and landed upon the notion of a journey.</description>
+      <description>Devon based band Velvet and Stone approached me to illustrate their latest album. We worked together, marrying our creativity, to create a wonderful illustrated journey.</description>
     </item>
     
     <item>
@@ -143,7 +139,16 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/design/cineon-productions/</guid>
-      <description>Cineon Productions  Cineon Productions, specialists in the creation of immersive extended reality content, had a successful brand with a look and feel they were happy with for several years but they felt everything needed a bit of a refresh as the company was diversifying and expanding.     I was asked to create something that utilised their current colour palette and was given a brief that welcomed creativity and a modern look whilst retaining the company’s trusted core values.</description>
+      <description>When Cineon Productions came to me with an idea to refresh their brand, I was delighted to go on the journey with them.</description>
+    </item>
+    
+    <item>
+      <title>Pastoral support website</title>
+      <link>http://localhost:1313/design/pastoral-support-website/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/design/pastoral-support-website/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -161,6 +166,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/design/talking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cat Christmas card</title>
+      <link>http://localhost:1313/illustration/cat-christmas-card/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/illustration/cat-christmas-card/</guid>
       <description></description>
     </item>
     
@@ -206,7 +220,7 @@
       <pubDate>Fri, 08 May 2020 22:05:25 +0100</pubDate>
       
       <guid>http://localhost:1313/tester/</guid>
-      <description>paypal.Buttons({ style: { color: &#39;blue&#39;, }, createOrder: function (data, actions) { // Set up the transaction return actions.order.create({ purchase_units: [{ amount: { currency_code: &#39;GBP&#39;, value: &#39;0.21&#39;, breakdown: { item_total: { currency_code: &#39;GBP&#39;, value: &#39;0.21&#39;, }, }, }, items: [{ name: &#39;The Name&#39;, unit_amount: { value: &#39;0.21&#39;, currency_code: &#39;GBP&#39; }, quantity: 1, }], }] }); }, onApprove: function(data, actions) { console.log(&#39;data&#39;, data); // This function captures the funds from the transaction.</description>
+      <description> </description>
     </item>
     
     <item>
@@ -233,7 +247,7 @@
       <pubDate>Fri, 08 May 2020 22:03:06 +0100</pubDate>
       
       <guid>http://localhost:1313/about/</guid>
-      <description>Who I am   My name is Lucy and I’m a freelance graphic designer and illustrator. With over 8 years professional experience I’ve produced a wide range of artwork for a variety of print, web, film and exhibition projects, working with a diverse spectrum of clients. I love what I do.  My expertise covers marketing materials, corporate identity (including branding and logo design), report creation, web/UI design, as well as editorial, commercial and private commissions for illustration.</description>
+      <description>Who I am My name is Lucy and I’m a freelance graphic designer and illustrator. With over 8 years professional experience I’ve produced a wide range of artwork for a variety of print, web, film and exhibition projects, working with a diverse spectrum of clients. I love what I do. My expertise covers marketing materials, corporate identity (including branding and logo design), report creation, web/UI design, as well as editorial, commercial and private commissions for illustration.</description>
     </item>
     
     <item>
@@ -251,6 +265,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/design/rhc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yas queen</title>
+      <link>http://localhost:1313/illustration/yas-queen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/illustration/yas-queen/</guid>
       <description></description>
     </item>
     
@@ -377,6 +400,114 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/design/tacet-ui/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Woman Rising logo</title>
+      <link>http://localhost:1313/design/woman-rising/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/design/woman-rising/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mr Crabsticks</title>
+      <link>http://localhost:1313/illustration/mr-crabsticks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/illustration/mr-crabsticks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pi-rats</title>
+      <link>http://localhost:1313/illustration/pi-rats/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/illustration/pi-rats/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Butleigh Garden Centre branding</title>
+      <link>http://localhost:1313/design/butleigh-branding/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/design/butleigh-branding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cybersecurity report</title>
+      <link>http://localhost:1313/design/cybersecurity-report/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/design/cybersecurity-report/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Folk take week - Dream</title>
+      <link>http://localhost:1313/illustration/folktakeweek-dream/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/illustration/folktakeweek-dream/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bower bird A5 print</title>
+      <link>http://localhost:1313/illustration/bower-bird/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/illustration/bower-bird/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Minerva brand guidelines</title>
+      <link>http://localhost:1313/design/minerva-brand-guidelines/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/design/minerva-brand-guidelines/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Halloween witch</title>
+      <link>http://localhost:1313/illustration/halloween-witch/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/illustration/halloween-witch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Snapchat guidelines</title>
+      <link>http://localhost:1313/design/snapchat-guidelines/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/design/snapchat-guidelines/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Folk take week - Awakening</title>
+      <link>http://localhost:1313/illustration/folktakeweek-awakening/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/illustration/folktakeweek-awakening/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cool cats</title>
+      <link>http://localhost:1313/illustration/cool-cats/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/illustration/cool-cats/</guid>
       <description></description>
     </item>
     

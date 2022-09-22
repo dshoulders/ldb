@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Illustration on Lucy de Burgh</title>
@@ -6,11 +6,7 @@
     <description>Recent content in Illustration on Lucy de Burgh</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Fri, 08 May 2020 22:07:55 +0100</lastBuildDate>
-    
-	<atom:link href="http://localhost:1313/illustration/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Fri, 08 May 2020 22:07:55 +0100</lastBuildDate><atom:link href="http://localhost:1313/illustration/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Not Alone</title>
       <link>http://localhost:1313/illustration/not_alone/</link>
@@ -116,7 +112,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/illustration/velvet-and-stone/</guid>
-      <description>Velvet and Stone  The self titled Velvet &amp; Stone album is the third piece I’ve worked on with the Devon based indie-folk band. They had worked with a photographer and chosen an image for their front cover but wanted an illustrated insert that would compliment their style, the music and the beautiful photograph.     We discussed possibilities and landed upon the notion of a journey.</description>
+      <description>Devon based band Velvet and Stone approached me to illustrate their latest album. We worked together, marrying our creativity, to create a wonderful illustrated journey.</description>
     </item>
     
     <item>
@@ -125,6 +121,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/illustration/snail/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cat Christmas card</title>
+      <link>http://localhost:1313/illustration/cat-christmas-card/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/illustration/cat-christmas-card/</guid>
       <description></description>
     </item>
     
@@ -152,6 +157,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/illustration/milestone2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yas queen</title>
+      <link>http://localhost:1313/illustration/yas-queen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/illustration/yas-queen/</guid>
       <description></description>
     </item>
     
@@ -197,6 +211,69 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/illustration/dengineers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mr Crabsticks</title>
+      <link>http://localhost:1313/illustration/mr-crabsticks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/illustration/mr-crabsticks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pi-rats</title>
+      <link>http://localhost:1313/illustration/pi-rats/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/illustration/pi-rats/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Folk take week - Dream</title>
+      <link>http://localhost:1313/illustration/folktakeweek-dream/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/illustration/folktakeweek-dream/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bower bird A5 print</title>
+      <link>http://localhost:1313/illustration/bower-bird/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/illustration/bower-bird/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Halloween witch</title>
+      <link>http://localhost:1313/illustration/halloween-witch/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/illustration/halloween-witch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Folk take week - Awakening</title>
+      <link>http://localhost:1313/illustration/folktakeweek-awakening/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/illustration/folktakeweek-awakening/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cool cats</title>
+      <link>http://localhost:1313/illustration/cool-cats/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/illustration/cool-cats/</guid>
       <description></description>
     </item>
     
