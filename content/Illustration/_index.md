@@ -1,6 +1,6 @@
 ---
 title: "Illustration"
-description: "Bespoke illustrations created for magazines, album art work, commisions and for pleasure"
+description: "Bespoke illustrations created for magazines, album art work, commissions and for pleasure"
 menu: "main"
 weight: 2
 type: "work"
